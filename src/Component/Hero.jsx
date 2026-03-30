@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className=' bg-[url("./img3.jpg")] bg-cover bg-center h-[80vh] m-7 rounded-xl  relative'>
+    <div className='bg-[url("/img3.jpg")] bg-cover bg-center h-[80vh] m-7 rounded-xl relative'>
         <div  className=' absolute top-[10%]  left-1/2 -translate-x-1/2 p-10 rounded-xl text-center w-full ' >
             <h1 className='text-5xl   text-slate-200 font-bold text-center'>Unleash Your inner Champian Today.</h1>
             <h1 className='text-5xl text-slate-200 font-bold text-center'>All in One Place.</h1>
